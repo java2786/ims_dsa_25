@@ -1,0 +1,8 @@
+Print all the elements in an array
+Max number in array
+Min number in array
+Sum of all numbers in array
+Check if array is sorted
+Find element in array
+Find occurrences in array - 10 20 30 50 30 50 - 50 - [3, 5]
+Reverse array 
