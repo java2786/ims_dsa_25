@@ -1,0 +1,9 @@
+2. String with Recursion
+A) subString, charAt, length
+b) Reverse a String in Array
+c) https://leetcode.com/problems/reverse-string/description/
+d) Search Char and Replace char in a String
+e) Search char and remove in a string
+G) Remove Consecutive Characters, aabbbccddddeee -> abcde
+h) Insert * between identical characters → "aabb" → "a*ab*b"
+i) Move all 'x' to the end → "axbx" → "abxx"

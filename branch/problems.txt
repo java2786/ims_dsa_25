@@ -1,0 +1,6 @@
+triangle patterns
+multi branch as Fibonacci problem
+climb stair problem
+rope cut problem
+dice game problem
+maze path problem
