@@ -1,4 +1,6 @@
 SubSequence
     "abc" → "a", "b", "ab", "ac", "c", "abc", and ""
 Permutation
+    "abc" → abc, acb, bca, bac,  
 Target Sum
+    {1, 2, 3, 4, 7}, sum = 5
