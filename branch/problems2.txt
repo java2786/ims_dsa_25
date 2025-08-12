@@ -1,0 +1,4 @@
+SubSequence
+    "abc" → "a", "b", "ab", "ac", "c", "abc", and ""
+Permutation
+Target Sum
