@@ -1,0 +1,10 @@
+
+MyArray 
+    - read by index
+    - add at given index 
+    - set at give index (modify)
+    - Make Dynamic to store user defined data
+
+Max Consecutive Bit - gfg
+121. Best Time to Buy and Sell Stock - Leetcode
+
